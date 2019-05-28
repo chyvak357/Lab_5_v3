@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/lab1_v5_encod.dir/main.cpp.o CMakeFiles/lab1_v5_encod.dir/menu.cpp.o CMakeFiles/lab1_v5_encod.dir/cl_kind.cpp.o CMakeFiles/lab1_v5_encod.dir/cl_book.cpp.o  -o lab1_v5_encod.exe -Wl,--out-implib,liblab1_v5_encod.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
